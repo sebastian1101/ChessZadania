@@ -1,0 +1,11 @@
+{
+   	"login": "Janek",
+    "name": "Jan",
+    "id": 1L,
+    "level": 4,
+    "points": 1210,
+    "played": 46,
+    "won": 11,
+    "drawn": 20,
+    "lost": 15 
+}
